@@ -21,7 +21,7 @@ export default function Cover_6() {
       </div>
 
       {/* الصورة الثانية */}
-      <div className="w-full h-96 bg-[url('/assets/alison.webp')] bg-cover bg-center rounded shadow" />
+      <div className="w-full h-96 bg-[url('/assets/alison.webp')] bg-cover bg-center shadow" />
       
     </div>
   );

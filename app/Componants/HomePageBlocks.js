@@ -194,8 +194,8 @@ export default function HomePageBlocks() {
                     isTwoBanners
                       ? `
                         h-[45vh]     /* Mobile + Tablet */
-                        md:h-[32vh] 
-                        lg:h-[40vh] /* Laptop */
+                        md:h-[45vh] 
+                        lg:h-[45vh] /* Laptop */
                         xl:h-[50vh] /* Desktop */
                       `
                       : `
